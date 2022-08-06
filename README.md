@@ -49,7 +49,7 @@
 ```cmd
 -> pkg install git
 -> git clone (URL del repositorio actual)
--> cd Quantum-Bot
+-> cd crazy bot
 -> bash install.sh
 -> npm start
 ```
