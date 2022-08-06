@@ -48,7 +48,7 @@
 # 🧑‍💻 Instalacion en termux
 ```cmd
 -> pkg install git
--> git clone (URL del repositorio actual)
+-> git clone https://github.com/SAPITOBo/crazybot
 -> cd crazy bot
 -> bash install.sh
 -> npm start
